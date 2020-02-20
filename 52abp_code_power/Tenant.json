@@ -1,0 +1,1 @@
+{"EntityKeyName":"User","EntityDisplayName":null,"BaseClassName":"AbpTenant<User>","BaseClassDtoName":"AbpTenantDto<User>","BaseClassNameList":"","Name":"Tenant","LowerName":"tenant","SplitName":"tenant","NameSplit":["tenant"],"Namespace":"MyCoreProject.MultiTenancy","Properties":[]}
